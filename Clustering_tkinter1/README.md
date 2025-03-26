@@ -1,4 +1,4 @@
-# Cluster GUI: KMeans & DBSCAN Visual Tool (with Step-by-Step DBSCAN Tuning)
+# Cluster GUI: KMeans & DBSCAN Visual Tool
 
 This interactive Python GUI tool allows users to explore clustering with **KMeans** and **DBSCAN**, using popular datasets. It features real-time visualization, step-by-step control, and automatic DBSCAN parameter tuning.
 
