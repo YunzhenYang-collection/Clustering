@@ -1,4 +1,4 @@
-# K-means-clustering
+# Clustering
 Implementation code for data clustering, training, and visualization using K-means
 
 
